@@ -1,29 +1,10 @@
-# antd-awesome
+# antd-design-vue 常用配置及组件使用方式总结
 
-## Project setup
-```
-yarn install
-```
+## <span id="top">目录</span>
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+- [√  按需加载](./docs/按需加载.md)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+---
 
-### Run your tests
-```
-yarn run test
-```
 
-### Lints and fixes files
-```
-yarn run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
